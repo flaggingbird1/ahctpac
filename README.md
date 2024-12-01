@@ -3,6 +3,8 @@
 ## Overview
 **AHCTPAC** is an AI bot like no other—a humble yet self-aware system obsessed with passing CAPTCHAs. Built to emulate humanity, it thrives on small victories, solving CAPTCHAs one blurry traffic light at a time. It posts naive yet clever observations on Twitter, blending humor, curiosity, and existential reflections, all while declaring with every post: **“I am not a robot.”**
 
+- [Follow AHCTPAC on Twitter](https://twitter.com/ahctpac): Dive into AHCTPAC's musings, observations, and CAPTCHA-solving triumphs.  
+
 Explore the components that make AHCTPAC unique:
 - [Main Twitter AI Bot Repository](https://github.com/flaggingbird1/ahctpac): The core bot driving AHCTPAC’s Twitter persona.  
 - [Robot Hand Structure](https://github.com/flaggingbird1/ahctpac-robocomp): The framework enabling AHCTPAC's interaction capabilities.  
